@@ -1,0 +1,6 @@
+{
+  "name": "NUR Home",
+  "description": "Smart living automation app for ESP32 4-channel relay control via Firebase Realtime Database with real-time sync, master controls, and minimalist aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
